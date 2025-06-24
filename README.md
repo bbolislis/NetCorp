@@ -1,5 +1,5 @@
 # Automating "NetCorp's" Network
-# Introducing NetCorp: A Fictional Company
+## Introducing NetCorp: A Fictional Company
 NetCorp is a medium-sized company with a growing network infrastructure. They have multiple office locations, a data center, and are increasingly relying on cloud services. Their network supports a variety of business-critical applications, including email, file sharing, video conferencing, and customer relationship management (CRM) software.
 
 ## NetCorp's Network Infrastructure
