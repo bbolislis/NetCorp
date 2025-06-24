@@ -11,6 +11,8 @@ NetCorp's network consists of a mix of devices from different vendors, including
 - **Data Center:** The data center hosts the company's servers and applications. It uses a combination of physical servers and virtual machines running on VMware. The network in the data center is primarily Arista equipment.
 - **Cloud Infrastructure:** NetCorp uses AWS and Azure for some of their applications and services. They have VPN connections between their on-premises network and their cloud environments.
 
+![NetCorp's Network Overview](diagram-export-6-24-2025-10_03_40-AM.png)
+
 ## Specific Automation Goals for NetCorp
 
 NetCorp has identified several specific areas where they want to implement network automation:
